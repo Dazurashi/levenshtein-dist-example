@@ -1,4 +1,5 @@
 # This program was made to demostrate The Levenshtein distance
+# Prints out the matrix of distances between prefixes as well as the Levenshtein distance value 
 
 import numpy
 
